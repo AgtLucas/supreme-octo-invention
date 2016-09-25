@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/supreme-octo-invention/issues"
   },
-  "homepage": "https://github.com/AgtLucas/supreme-octo-invention#readme"
+  "homepage": "https://github.com/AgtLucas/supreme-octo-invention#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "graphql": "^0.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-relay": "^0.9.3"
+  }
 }
